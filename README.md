@@ -1,2 +1,2 @@
 # github_test
-練習
+githubの練習用
